@@ -11,9 +11,9 @@ The 5GENESIS test cases are divided in two parts
 
 The naming convention used for the Test Case naming is 
 
-TC_XXX_KPI/APP_metric_variation 
+TC_<PRIMARYMETRIC>_<KPI/APP>_<VARIATION>_[Platform]_[ENUM] 
 
-for example TC_001_KPI_latency_rtt is for the test case measuring latency KPI validation using RTT measurements. 
+for example TC_LATENCY_KPI_e2eApplicationLayer. 
 
 
 
